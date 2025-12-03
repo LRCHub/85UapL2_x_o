@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "今更だって僕は言うかな",
+  "base_artist": "Saucy Dog",
+  "createdAt": "2025-12-03T04:26:43.808797Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "今更だって僕は言うかな",
+      "artist": "Saucy Dog",
+      "has_synced": false,
+      "path": "select/pl_01_今更だって僕は言うかな_Saucy_Dog.txt"
+    }
+  ]
+}
